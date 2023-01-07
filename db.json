@@ -1,0 +1,60 @@
+{
+  "users": [
+    {
+      "name": "Ramy Mohsen",
+      "userName": "ramymohsen",
+      "emailAddress": "ramymohsen@test.com",
+      "group": "Office",
+      "status": "Active",
+      "createdOn": "June 10, 2022"
+    },
+    {
+      "name": "Yousef Atef",
+      "userName": "yousefatef",
+      "emailAddress": "yousefatef@test.com",
+      "group": "Office",
+      "status": "Inactive",
+      "createdOn": "December 10, 2022"
+    },
+    {
+      "name": "Hisham Hagag",
+      "userName": "hishamhagag",
+      "emailAddress": "hishamhagag@test.com",
+      "group": "Head Office",
+      "status": "Locked",
+      "createdOn": "October 10, 2022"
+    },
+    {
+      "name": "Noor Hamdy",
+      "userName": "nourhamdy",
+      "emailAddress": "nourhamdy@test.com",
+      "group": "Managers",
+      "status": "Inactive",
+      "createdOn": "December 10, 2022"
+    },
+    {
+      "name": "كريم فاروق",
+      "userName": "karimfarouk",
+      "emailAddress": "karimfarouk@gmail.com",
+      "group": "Office",
+      "status": "Active",
+      "createdOn": "March 10, 2022"
+    },
+    {
+      "name": "حنان فوزي",
+      "userName": "hanan",
+      "emailAddress": "hanan@yahoo.com",
+      "group": "Office",
+      "status": "Active",
+      "createdOn": "December 10, 2022"
+    },
+    {
+      "name": "يوسف فوزي",
+      "userName": "youseffawzy",
+      "emailAddress": "youseffawzy@yahoo.com",
+      "group": "Office",
+      "status": "Locked",
+      "createdOn": "December 10, 2022"
+    }
+  ]
+}
