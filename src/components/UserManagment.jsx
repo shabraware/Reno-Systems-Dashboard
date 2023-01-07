@@ -148,7 +148,6 @@ const UserManagment = () => {
                 setEndDate(update[1]);
               }}
               selectsRange
-              isClearable
             />
             <span
               onClick={clearFiltersHandler}
